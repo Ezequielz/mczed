@@ -1,0 +1,3559 @@
+[
+    {
+      "id": "661399a7882225b1d5803e2c",
+      "idRfm": "adsa-ar-high-900004",
+      "title": "Promociones",
+      "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/default/mcdonalds.png",
+      "active": true,
+      "products": [
+        {
+          "id": "661399a7882225b1d5803e3b",
+          "name": "20OFF CM Grand Doble Bacon",
+          "identifier": "48794",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48794_v1.png",
+          "description": "Dos carnes, inigualable queso cheddar, cebolla, kétchup y mostaza, y el increíble ingrediente que lo hace único: bacon premium con papas y bebida mediano",
+          "price": {
+            "amount": 830000,
+            "tax": 0,
+            "formatted": "$8.300,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d5803e6f",
+          "name": "30 OFF McCombo Mediano Big Mac",
+          "identifier": "48130",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48130_v1.png",
+          "description": "30 OFF McCombo Mediano Big Mac",
+          "price": {
+            "amount": 580000,
+            "tax": 0,
+            "formatted": "$5.800,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d5803ea9",
+          "name": "30 OFF McCombo Mediano Triple hamburguesa con queso",
+          "identifier": "3506",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_3506_v6.png",
+          "description": "30 OFF McCombo Mediano Triple hamburguesa con queso",
+          "price": {
+            "amount": 595000,
+            "tax": 0,
+            "formatted": "$5.950,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d5803ee5",
+          "name": "20 OFF McCombo mediano Grand Tasty Spicy doble",
+          "identifier": "4814",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_4814_v5.png",
+          "description": "20 OFF en Grand Tasty Spicy Doble. Acompañado de papas y bebida medianas. El sabor único de nuestra clásica hamburguesa Tasty, ahora se picó! Con dos medallones de carne 100% vacuna, tres fetas de nuestro exclusivo queso cheddar, cebolla, lechuga y tomate frescos en nuestro único pan con semillas de sésamo... nuestra exclusiva salsa Tasty y salsa picante!",
+          "price": {
+            "amount": 830000,
+            "tax": 0,
+            "formatted": "$8.300,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d5803f22",
+          "name": "20 OFF McFlurry Chocotorta + McCombo Mediano Bacon Cheddar McMelt",
+          "identifier": "48012",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48012_v6.png",
+          "description": "Doble porcion de salsa Chocotorta, trocitos de galletitas Chocolinas y helado de vainilla. ¡Una Chocotorta hecha McFlurry! Con un McCombo Mediano Bacon Cheddar McMelt",
+          "price": {
+            "amount": 1030000,
+            "tax": 0,
+            "formatted": "$10.300,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d5803f62",
+          "name": "2 McCombos Mediano McNífica",
+          "identifier": "48943",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48943_v17.png",
+          "description": "2 Combos Medianos McNífica",
+          "price": {
+            "amount": 1510000,
+            "tax": 0,
+            "formatted": "$15.100,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d5803fd5",
+          "name": "35% OFF Cajita Feliz + McCombo Tasty Spicy Doble",
+          "identifier": "902",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_902_v3.png",
+          "description": "35% OFF Cajita Feliz + McCombo Tasty Spicy Doble",
+          "price": {
+            "amount": 1065000,
+            "tax": 0,
+            "formatted": "$10.650,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d580405d",
+          "name": "Cajita Feliz + McCombo Mediano Doble Cuarto de Libra",
+          "identifier": "48227",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48227_v21.png",
+          "description": "Cajita Feliz + CMDoble1/4",
+          "price": {
+            "amount": 899900,
+            "tax": 0,
+            "formatted": "$8.999,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d58040ed",
+          "name": "Cajita Feliz + Cono",
+          "identifier": "48196",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48196_v17.png",
+          "description": "Cajita Feliz + Cono",
+          "price": {
+            "amount": 459900,
+            "tax": 0,
+            "formatted": "$4.599,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d5804159",
+          "name": "30 OFF 2 Cajitas Felices",
+          "identifier": "26617",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26617_v12.png",
+          "description": "2 Cajitas Felices precio promocional",
+          "price": {
+            "amount": 825000,
+            "tax": 0,
+            "formatted": "$8.250,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d5804200",
+          "name": "McCombo Med BigMac + Tradeup Pileta de Cheddar",
+          "identifier": "48005",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48005_v19.png",
+          "description": "Acompaña tu McCombo Favorito , con una explosión de cheddar",
+          "price": {
+            "amount": 819900,
+            "tax": 0,
+            "formatted": "$8.199,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d580423a",
+          "name": "McCombo Med Cuarto de libra + TradeUp Pileta de Cheddar",
+          "identifier": "48006",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48006_v18.png",
+          "description": "Acompaña tu McCombo Favorito , con una explosión de cheddar",
+          "price": {
+            "amount": 819900,
+            "tax": 0,
+            "formatted": "$8.199,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d5804277",
+          "name": "McCombo Med Doble Cuarto de libra + TradeUp Pileta de Cheddar",
+          "identifier": "48007",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48007_v16.png",
+          "description": "Acompaña tu McCombo Favorito , con una explosión de cheddar",
+          "price": {
+            "amount": 939900,
+            "tax": 0,
+            "formatted": "$9.399,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d58042b4",
+          "name": "Menú Ensalada Caesar",
+          "identifier": "48263",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48236_v5.png",
+          "description": "Ensalada de mix de hojas verdes, queso parmesano en hebras, bacon picado, croutons y una proteína a elección. Con un exquisito aderezo caesar. Acompañada de una bebida a elección",
+          "price": {
+            "amount": 649900,
+            "tax": 0,
+            "formatted": "$6.499,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d58042ea",
+          "name": "20OFF Ensalada Caesar + Agua Frutada",
+          "identifier": "48265",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48265_v3.png",
+          "description": "Ensalada de mix de hojas verdes, queso parmesano en hebras, bacon picado, croutons y una proteína a elección. Con un exquisito aderezo caesar. Acompañada de agua frutada poder elegir entre power day o chill day",
+          "price": {
+            "amount": 780000,
+            "tax": 0,
+            "formatted": "$7.800,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d5804312",
+          "name": "Menú Ensalada Deli Guacamole",
+          "identifier": "48933",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48933_v6.png",
+          "description": "La más deliciosa combinación de mix de verdes, tomate, cebolla grillada, guacamole, un huevo y una proteína a elección (pollo crispy, pollo grille o carne). Una exquisita mezcla de los vegetales, las texturas crocantes de los croutones y el French Dressing! Acompañada con bebida a elección",
+          "price": {
+            "amount": 649900,
+            "tax": 0,
+            "formatted": "$6.499,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d5804345",
+          "name": "20 OFF Ensalada Deli Guacamole + Agua Frutada",
+          "identifier": "48936",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48936_v4.png",
+          "description": "20 OFF en la más deliciosa combinación de mix de verdes, tomate, cebolla grillada, guacamole, un huevo y una proteína a elección (pollo crispy, pollo grille o carne). Una exquisita mezcla de los vegetales, las texturas crocantes de los croutones y el French Dressing! Con un agua frutada a elección",
+          "price": {
+            "amount": 780000,
+            "tax": 0,
+            "formatted": "$7.800,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d5804368",
+          "name": "25 OFF Tostado LomoQ + Agua Frutada",
+          "identifier": "48266",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_42866_v4.png",
+          "description": "25 OFF en agua frutada a elección con un tostado lomo y queso",
+          "price": {
+            "amount": 315000,
+            "tax": 0,
+            "formatted": "$3.150,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d5804371",
+          "name": "Doble carne Doble queso McCombo Pequeño",
+          "identifier": "48202",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48202_v7.png",
+          "description": "Hamburguesa doble carne, doble queso cheddar, ketchup, mostaza y cebolla. Acompañamiento y bebida chica a elección",
+          "price": {
+            "amount": 430000,
+            "tax": 0,
+            "formatted": "$4.300,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d580438c",
+          "name": "Doble carne Doble queso McCombo Mediano",
+          "identifier": "48203",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48203_v7.png",
+          "description": "Hamburguesa doble carne, doble queso cheddar, ketchup, mostaza y cebolla. Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 530000,
+            "tax": 0,
+            "formatted": "$5.300,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d58043c8",
+          "name": "Doble carne Doble queso McCombo Grande",
+          "identifier": "48204",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48204_v7.png",
+          "description": "Hamburguesa doble carne, doble queso cheddar, ketchup, mostaza y cebolla. Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 580000,
+            "tax": 0,
+            "formatted": "$5.800,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d5804404",
+          "name": "McCombo Pixel",
+          "identifier": "48040",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48040_v8.png",
+          "description": "Hamburguesa doble medallón de carne y doble queso condimentado con ketchup, mostaza y cebolla. Acompañamiento chico y bebida sin azúcar a elección. Postre Sundae, sabor a elección",
+          "price": {
+            "amount": 549900,
+            "tax": 0,
+            "formatted": "$5.499,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d5804442",
+          "name": "30 OFF en 2 Conos",
+          "identifier": "48475",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48475_v11.png",
+          "description": "30 OFF en 2 Conos a elección",
+          "price": {
+            "amount": 129900,
+            "tax": 0,
+            "formatted": "$1.299,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d5804463",
+          "name": "2 Sundae a elección",
+          "identifier": "48757",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48757_v16.png",
+          "description": "Podes elegir 2 sundae de Chocolate, Frutilla o Dulce de leche",
+          "price": {
+            "amount": 319900,
+            "tax": 0,
+            "formatted": "$3.199,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d58044a2",
+          "name": "20 OFF McFlurry Chocotorta",
+          "identifier": "48024",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48024_v5.png",
+          "description": "Doble porcion de salsa Chocotorta, trocitos de galletitas Chocolinas y helado de vainilla. ¡Una Chocotorta hecha McFlurry!",
+          "price": {
+            "amount": 270000,
+            "tax": 0,
+            "formatted": "$2.700,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d58044ae",
+          "name": "2 McFlurry Chocotorta",
+          "identifier": "48011",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48011_v12.png",
+          "description": "Doble porcion de salsa Chocotorta, trocitos de galletitas Chocolinas y helado de vainilla. ¡Una Chocotorta hecha McFlurry!",
+          "price": {
+            "amount": 520000,
+            "tax": 0,
+            "formatted": "$5.200,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d58044bd",
+          "name": "Café con Grand Tostado",
+          "identifier": "2591",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2591_v1.png",
+          "description": "Café + Grand Tostado",
+          "price": {
+            "amount": 290000,
+            "tax": 0,
+            "formatted": "$2.900,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d58044d7",
+          "name": "Café con 1 medialuna",
+          "identifier": "4800",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_4800_v8.png",
+          "description": "Con la compra de un café, llevate gratis una medialuna",
+          "price": {
+            "amount": 125000,
+            "tax": 0,
+            "formatted": "$1.250,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d58044f5",
+          "name": "Café con 2 facturas",
+          "identifier": "48029",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48029_v14.png",
+          "description": "Café con dos facturas a elección",
+          "price": {
+            "amount": 129900,
+            "tax": 0,
+            "formatted": "$1.299,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d5804517",
+          "name": "Cafe con Tostado Lomo y Queso",
+          "identifier": "48123",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48123_v7.png",
+          "description": "1 Tostado lomo y queso + un Café",
+          "price": {
+            "amount": 205000,
+            "tax": 0,
+            "formatted": "$2.050,00"
+          }
+        },
+        {
+          "id": "661399a7882225b1d5804536",
+          "name": "Café con Alfajor y Jugo",
+          "identifier": "26982",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26982_v16.png",
+          "description": "Alfajor de maicena + Café + Jugo",
+          "price": {
+            "amount": 230000,
+            "tax": 0,
+            "formatted": "$2.300,00"
+          }
+        },
+        {
+          "id": "661399a8882225b1d5804552",
+          "name": "2 Cafés con Poundcake",
+          "identifier": "26990",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26990_v17.png",
+          "description": "2 Café + 1 Poundcake a elección",
+          "price": {
+            "amount": 370000,
+            "tax": 0,
+            "formatted": "$3.700,00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "661399b2882225b1d580b1a0",
+      "idRfm": "adsa-ar-high-900009",
+      "title": "McCombos",
+      "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/default/mcdonalds.png",
+      "active": true,
+      "products": [
+        {
+          "id": "661399b2882225b1d580b1af",
+          "name": "McCombo Mediano Grand Tasty Spicy Doble",
+          "identifier": "4809",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_4809_v1.png",
+          "description": "El sabor único de nuestra clásica hamburguesa Tasty, ahora se picó! Con dos medallones de carne 100% vacuna, tres fetas de nuestro exclusivo queso cheddar, cebolla, lechuga y tomate frescos en nuestro único pan con semillas de sésamo... nuestra exclusiva salsa Tasty y salsa picante! Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 1040000,
+            "tax": 0,
+            "formatted": "$10.400,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b1ec",
+          "name": "McCombo grande Grand Tasty Spicy doble",
+          "identifier": "4810",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_4810_v1.png",
+          "description": "El sabor único de nuestra clásica hamburguesa Tasty, ahora se picó! Con dos medallones de carne 100% vacuna, tres fetas de nuestro exclusivo queso cheddar, cebolla, lechuga y tomate frescos en nuestro único pan con semillas de sésamo... nuestra exclusiva salsa Tasty y salsa picante! Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 1140000,
+            "tax": 0,
+            "formatted": "$11.400,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b229",
+          "name": "McCombo mediano Grand Tasty Spicy triple",
+          "identifier": "4812",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_4812_v2.png",
+          "description": "El sabor único de nuestra clásica hamburguesa Tasty, ahora se picó! Con tres medallones de carne 100% vacuna, cuatro fetas de nuestro exclusivo queso cheddar, cebolla, lechuga y tomate frescos en nuestro único pan con semillas de sésamo... nuestra exclusiva salsa Tasty y salsa picante! Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 1150000,
+            "tax": 0,
+            "formatted": "$11.500,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b266",
+          "name": "McCombo grande Grand Tasty Spicy triple",
+          "identifier": "4813",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_4813_v2.png",
+          "description": "El sabor único de nuestra clásica hamburguesa Tasty, ahora se picó! Con tres medallones de carne 100% vacuna, cuatro fetas de nuestro exclusivo queso cheddar, cebolla, lechuga y tomate frescos en nuestro único pan con semillas de sésamo... nuestra exclusiva salsa Tasty y salsa picante! Acompañamiento y bebida grane a elección",
+          "price": {
+            "amount": 1250000,
+            "tax": 0,
+            "formatted": "$12.500,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b29b",
+          "name": "Bacon Cheddar McMelt Mediano",
+          "identifier": "48231",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48231_v3.png",
+          "description": "Una indulgente propuesta que potencia el sabor de nuestra clásica hamburguesa con abundante queso cheddar, dos tiras de bacon enteras, cebolla grillada en nuestro inigualable pan con semillas de sésamo! Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 950000,
+            "tax": 0,
+            "formatted": "$9.500,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b2d4",
+          "name": "Bacon Cheddar McMelt Grande",
+          "identifier": "48232",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48232_v3.png",
+          "description": "Una indulgente propuesta que potencia el sabor de nuestra clásica hamburguesa con abundante queso cheddar, dos tiras de bacon enteras, cebolla grillada en nuestro inigualable pan con semillas de sésamo! Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 1050000,
+            "tax": 0,
+            "formatted": "$10.500,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b30d",
+          "name": "Doble Bacon Cheddar McMelt Mediano",
+          "identifier": "26971",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26971_v4.png",
+          "description": "Una indulgente propuesta que potencia el sabor de nuestra clásica hamburguesa con dos medallones 100% de carne vacuna, abundante queso cheddar, dos tiras de bacon enteras y cebolla grillada en nuestro inigualable pan con semillas de sésamo. Acompañamiento de bebida y papas medianas",
+          "price": {
+            "amount": 990000,
+            "tax": 0,
+            "formatted": "$9.900,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b346",
+          "name": "Doble Bacon Cheddar McMelt Grande",
+          "identifier": "26972",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26972_v5.png",
+          "description": "Una indulgente propuesta que potencia el sabor de nuestra clásica hamburguesa con dos medallones 100% de carne vacuna, abundante queso cheddar, dos tiras de bacon enteras y cebolla grillada en nuestro inigualable pan con semillas de sésamo. Acompañamiento de bebida y papas grandes",
+          "price": {
+            "amount": 1090000,
+            "tax": 0,
+            "formatted": "$10.900,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b37f",
+          "name": "Big Mac Mediano",
+          "identifier": "26000",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26000_v2.png",
+          "description": "Hamburguesa con doble carne 100% vacuna, salsa Big Mac, queso derretido, cebolla, lechuga y pepino. Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 830000,
+            "tax": 0,
+            "formatted": "$8.300,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b3b9",
+          "name": "Big Mac Grande",
+          "identifier": "26050",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26050_v2.png",
+          "description": "Hamburguesa con doble carne 100% vacuna, salsa Big Mac, queso cheddar, cebolla, lechuga y pepino. Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 930000,
+            "tax": 0,
+            "formatted": "$9.300,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b3f3",
+          "name": "Cuarto de Libra Mediano",
+          "identifier": "26003",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26003_v2.png",
+          "description": "Hamburguesa de carne 100% vacuna, dos fetas de queso cheddar, kétchup, mostaza y cebolla. Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 850000,
+            "tax": 0,
+            "formatted": "$8.500,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b430",
+          "name": "Cuarto de Libra Grande",
+          "identifier": "26053",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26053_v2.png",
+          "description": "Hamburguesa de carne 100% vacuna, dos fetas de queso cheddar, kétchup, mostaza,y cebolla. Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 950000,
+            "tax": 0,
+            "formatted": "$9.500,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b46d",
+          "name": "Doble Cuarto de Libra Mediano",
+          "identifier": "26004",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26004_v2.png",
+          "description": "Hamburguesa doble carne 100% vacuna, dos fetas de queso cheddar, kétchup, mostaza y cebolla. Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 980000,
+            "tax": 0,
+            "formatted": "$9.800,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b4aa",
+          "name": "Doble Cuarto de Libra Grande",
+          "identifier": "26054",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26054_v2.png",
+          "description": "Hamburguesa con doble carne 100% vacuna, dos fetas de queso cheddar, kétchup, mostaza y cebolla . Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 1080000,
+            "tax": 0,
+            "formatted": "$10.800,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b4e7",
+          "name": "McNífica Mediano",
+          "identifier": "26002",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26002_v2.png",
+          "description": "Hamburguesa de carne 100% vacuna, queso cheddar, lechuga, tomate, kétchup, mostaza, mayonesa y cebolla. Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 900000,
+            "tax": 0,
+            "formatted": "$9.000,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b525",
+          "name": "McNífica Grande",
+          "identifier": "26052",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26052_v2.png",
+          "description": "Hamburguesa de carne 100% vacuna, queso cheddar, lechuga, tomate, kétchup, mostaza, mayonesa y cebolla. Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 1000000,
+            "tax": 0,
+            "formatted": "$10.000,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b563",
+          "name": "Triple Hamburguesa con Queso Mediano",
+          "identifier": "26200",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26200_v2.png",
+          "description": "Hamburguesa con triple carne 100% vacuna, queso cheddar, kétchup y cebolla. Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 860000,
+            "tax": 0,
+            "formatted": "$8.600,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b59b",
+          "name": "Triple Hamburguesa con Queso Grande",
+          "identifier": "26202",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26202_v2.png",
+          "description": "Hamburguesa con triple carne 100% vacuna, queso cheddar, kétchup y cebolla. Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 960000,
+            "tax": 0,
+            "formatted": "$9.600,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b5d3",
+          "name": "Grand Doble Tasty Mediano",
+          "identifier": "26933",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26933_v3.png",
+          "description": "Hamburguesa con doble carne 100% vacuna, salsa tasty, 3 fetas de queso cheddar, lechuga, tomate, cebolla en un pan mas grande. Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 1040000,
+            "tax": 0,
+            "formatted": "$10.400,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b60f",
+          "name": "Grand Doble Tasty grande",
+          "identifier": "26937",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26937_v3.png",
+          "description": "Hamburguesa con doble carne 100% vacuna, salsa tasty, 3 fetas de queso cheddar, lechuga, tomate, cebolla en un pan mas grande. Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 1140000,
+            "tax": 0,
+            "formatted": "$11.400,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b64b",
+          "name": "Grand Triple Tasty mediano",
+          "identifier": "26934",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26934_v3.png",
+          "description": "Hamburguesa con triple carne 100% vacuna, bacon en tiras y triturado, salsa tasty, 4 fetas de cheddar, lechuga, tomate, cebolla en un pan mas grande. Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 1150000,
+            "tax": 0,
+            "formatted": "$11.500,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b687",
+          "name": "Grand Triple Tasty grande",
+          "identifier": "26938",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26938_v3.png",
+          "description": "Hamburguesa con triple carne 100% vacuna, salsa tasty, 3 fetas de queso cheddar, lechuga, tomate, cebolla en un pan mas grande. Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 1250000,
+            "tax": 0,
+            "formatted": "$12.500,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b6c3",
+          "name": "Grand Doble McBacon Mediano",
+          "identifier": "26892",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26892_v3.png",
+          "description": "Hamburguesa con doble carne 100% vacuna, bacon, queso cheddar, cebolla, kétchup y mostaza en un pan más grande. Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 1040000,
+            "tax": 0,
+            "formatted": "$10.400,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b6ff",
+          "name": "Grand Doble McBacon grande",
+          "identifier": "26898",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26898_v3.png",
+          "description": "Hamburguesa con doble carne 100% vacuna, bacon, cheddar, cebolla, kétchup y mostaza en un pan más grande. Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 1140000,
+            "tax": 0,
+            "formatted": "$11.400,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b73b",
+          "name": "Grand Triple McBacon Mediano",
+          "identifier": "26893",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26893_v3.png",
+          "description": "Hamburguesa con triple carne 100% vacuna, bacon, cheddar, cebolla, kétchup y mostaza en un pan más grande. Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 1150000,
+            "tax": 0,
+            "formatted": "$11.500,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b777",
+          "name": "Grand Triple McBacon grande",
+          "identifier": "26899",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26899_v3.png",
+          "description": "Hamburguesa con triple carne 100% vacuna, bacon, 3 fetas de cheddar, ketchup y mostaza en un pan mas grande. Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 1250000,
+            "tax": 0,
+            "formatted": "$12.500,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b7b3",
+          "name": "Grand Tasty Turbo Bacon Doble Mediano",
+          "identifier": "26956",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26956_v3.png",
+          "description": "Hamburguesa con doble carne, bacon en tiras y triturado, salsa Tasty, queso cheddar, lechuga, tomate y cebolla en un pan más grande. Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 1100000,
+            "tax": 0,
+            "formatted": "$11.000,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b7ef",
+          "name": "Grand Tasty Turbo Bacon Doble Grande",
+          "identifier": "26958",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26958_v3.png",
+          "description": "Hamburguesa con doble carne, bacon en tiras y triturado, salsa Tasty, queso cheddar, lechuga, tomate y cebolla en un pan más grande . Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 1200000,
+            "tax": 0,
+            "formatted": "$12.000,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b82b",
+          "name": "Grand Tasty Turbo Bacon Triple Mediano",
+          "identifier": "26957",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26957_v3.png",
+          "description": "Hamburguesa con triple carne 100% vacuna, salsa tasty, 4 fetas de cheddar, lechuga, tomate, cebolla en un pan mas grande. Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 1200000,
+            "tax": 0,
+            "formatted": "$12.000,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b867",
+          "name": "Grand Tasty Turbo Bacon Triple Grande",
+          "identifier": "26959",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26959_v3.png",
+          "description": "Hamburguesa con triple carne 100% vacuna, bacon en tiras y triturado, salsa tasty, 4 fetas de queso cheddar, lechuga, tomate y cebolla en un pan mas grande. Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 1300000,
+            "tax": 0,
+            "formatted": "$13.000,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b8a3",
+          "name": "McCrispy Chicken Cheddar y Bacon Mediano",
+          "identifier": "48094",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48094_v2.png",
+          "description": "Medallón de pollo crispy, cheddar, bacon, lechuga, tomate y mayonesa. Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 810000,
+            "tax": 0,
+            "formatted": "$8.100,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b8dd",
+          "name": "McCrispy Chicken Cheddar y Bacon Grande",
+          "identifier": "48102",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48102_v2.png",
+          "description": "Medallón de pollo Crispy, cheddar, bacon, lechuga, tomate y mayonesa. Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 910000,
+            "tax": 0,
+            "formatted": "$9.100,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b917",
+          "name": "McCrispy Chicken Deluxe Mediano",
+          "identifier": "48980",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48980_v2.png",
+          "description": "Medallón de pollo crispy, lechuga, tomate y mayonesa. Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 730000,
+            "tax": 0,
+            "formatted": "$7.300,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b952",
+          "name": "McCrispy Chicken Deluxe Grande",
+          "identifier": "48981",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48981_v2.png",
+          "description": "Medallón de pollo crispy, lechuga, tomate y mayonesa. Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 830000,
+            "tax": 0,
+            "formatted": "$8.300,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b98d",
+          "name": "McCrispy Chicken Classic Mediano",
+          "identifier": "26970",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26970_v1.png",
+          "description": "Medallón de pollo crispy, mayonesa y pepinos. Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 650000,
+            "tax": 0,
+            "formatted": "$6.500,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b9c7",
+          "name": "McCrispy Chicken Classic Grande",
+          "identifier": "26969",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26969_v2.png",
+          "description": "Medallón de pollo crispy, mayonesa y pepinos. Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 750000,
+            "tax": 0,
+            "formatted": "$7.500,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580b9fd",
+          "name": "McCrispy Chicken Spicy Mediano",
+          "identifier": "48100",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48100_v2.png",
+          "description": "Medallón de pollo crispy, mayonesa, salsa spicy pepper, lechuga y tomte. Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 730000,
+            "tax": 0,
+            "formatted": "$7.300,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580ba39",
+          "name": "McCrispy Chicken Spicy Grande",
+          "identifier": "48103",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48103_v2.png",
+          "description": "Medallón de pollo crispy, mayonesa, salsa spicy pepper, lechuga y tomte. Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 830000,
+            "tax": 0,
+            "formatted": "$8.300,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580ba75",
+          "name": "McPollo Mediano",
+          "identifier": "26352",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26352_v2.png",
+          "description": "Medallón de pollo frito, mayonesa y lechuga. Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 640000,
+            "tax": 0,
+            "formatted": "$6.400,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580bab0",
+          "name": "McPollo Grande",
+          "identifier": "26350",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26350_v2.png",
+          "description": "Medallón de pollo frito, mayonesa y lechuga. Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 740000,
+            "tax": 0,
+            "formatted": "$7.400,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580baeb",
+          "name": "McNuggets x 10 Mediano",
+          "identifier": "26005",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26005_v1.png",
+          "description": "10 McNuggets de pollo.Acompañamiento y bebida mediana a elección",
+          "price": {
+            "amount": 850000,
+            "tax": 0,
+            "formatted": "$8.500,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580bb27",
+          "name": "McNuggets x 10 Grande",
+          "identifier": "26055",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26055_v1.png",
+          "description": "10 McNuggets de pollo. Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 950000,
+            "tax": 0,
+            "formatted": "$9.500,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580bb63",
+          "name": "McNuggets x20 Mediano",
+          "identifier": "26354",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26354_v1.png",
+          "description": "20 McNuggets de pollo. Acompañamiento y bebida mediano a elección",
+          "price": {
+            "amount": 1040000,
+            "tax": 0,
+            "formatted": "$10.400,00"
+          }
+        },
+        {
+          "id": "661399b2882225b1d580bba9",
+          "name": "McNuggets x20 Grande",
+          "identifier": "26356",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26356_v1.png",
+          "description": "20 McNuggets de pollo. Acompañamiento y bebida grande a elección",
+          "price": {
+            "amount": 1140000,
+            "tax": 0,
+            "formatted": "$11.400,00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "661399b5882225b1d580d49b",
+      "idRfm": "adsa-ar-high-900013",
+      "title": "Cajita Feliz",
+      "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/default/mcdonalds.png",
+      "active": true,
+      "products": [
+        {
+          "id": "661399b5882225b1d580d4aa",
+          "name": "Cajita Feliz- Otras opciones de Hamburguesa",
+          "identifier": "26015",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26015_v5.png",
+          "description": "Hamburguesa con Queso, Papas Fritas Kids, bebida y Yogurkid. ¡Elegí entre Libro o Juguete!",
+          "price": {
+            "amount": 600000,
+            "tax": 0,
+            "formatted": "$6.000,00"
+          }
+        },
+        {
+          "id": "661399b5882225b1d580d4f3",
+          "name": "Cajita Feliz con Hamburguesa",
+          "identifier": "26014",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26014_v4.png",
+          "description": "Hamburguesa , Papas Fritas Kids, bebida y Yogurkid. ¡Elegí entre Libro o Juguete!",
+          "price": {
+            "amount": 590000,
+            "tax": 0,
+            "formatted": "$5.900,00"
+          }
+        },
+        {
+          "id": "661399b5882225b1d580d53b",
+          "name": "Cajita Feliz McNuggets",
+          "identifier": "26016",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26016_v3.png",
+          "description": "McNuggets x 4 unidades, Papas Fritas Kids, bebida y Yogurkid. ¡Elegí entre Libro o Juguete!",
+          "price": {
+            "amount": 590000,
+            "tax": 0,
+            "formatted": "$5.900,00"
+          }
+        },
+        {
+          "id": "661399b5882225b1d580d580",
+          "name": "Cajita Feliz McFiesta Jr",
+          "identifier": "26749",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26749_v4.png",
+          "description": "Hamburguesa McFiesta Jr (Lechuga y tomate), Papas Fritas Kids, bebida y Yogurkid. ¡Elegí entre Libro o Juguete!",
+          "price": {
+            "amount": 590000,
+            "tax": 0,
+            "formatted": "$5.900,00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "661399b9882225b1d580fc31",
+      "idRfm": "adsa-ar-high-900020",
+      "title": "Hamburguesas",
+      "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/default/mcdonalds.png",
+      "active": true,
+      "products": [
+        {
+          "id": "661399b9882225b1d580fc40",
+          "name": "Grand Tasty Spicy doble",
+          "identifier": "4808",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_4808_v1.png",
+          "description": "El sabor único de nuestra clásica hamburguesa Tasty, ahora se picó! Con dos medallones de carne 100% vacuna, tres fetas de nuestro exclusivo queso cheddar, cebolla, lechuga y tomate frescos en nuestro único pan con semillas de sésamo... nuestra exclusiva salsa Tasty y salsa picante!",
+          "price": {
+            "amount": 745000,
+            "tax": 0,
+            "formatted": "$7.450,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fc54",
+          "name": "Grand Tasty Spicy triple",
+          "identifier": "4811",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_4811_v1.png",
+          "description": "El sabor único de nuestra clásica hamburguesa Tasty, ahora se picó! Con tres medallones de carne 100% vacuna, cuatro fetas de nuestro exclusivo queso cheddar, cebolla, lechuga y tomate frescos en nuestro único pan con semillas de sésamo... nuestra exclusiva salsa Tasty y salsa picante!",
+          "price": {
+            "amount": 850000,
+            "tax": 0,
+            "formatted": "$8.500,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fc68",
+          "name": "Doble Bacon Cheddar McMelt",
+          "identifier": "1006",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_1006_v2.png",
+          "description": "Una indulgente propuesta que potencia el sabor de nuestra clásica hamburguesa con dos medallones 100% de carne vacuna, abundante queso cheddar, dos tiras de bacon enteras y cebolla grillada en nuestro inigualable pan con semillas de sésamo",
+          "price": {
+            "amount": 745000,
+            "tax": 0,
+            "formatted": "$7.450,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fc70",
+          "name": "Bacon Cheddar McMelt",
+          "identifier": "48230",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48230_v2.png",
+          "description": "Una indulgente propuesta que potencia el sabor de nuestra clásica hamburguesa con abundante queso cheddar, dos tiras de bacon enteras, cebolla grillada en nuestro inigualable pan con semillas de sésamo!",
+          "price": {
+            "amount": 695000,
+            "tax": 0,
+            "formatted": "$6.950,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fc78",
+          "name": "Hamburguesa con Queso",
+          "identifier": "160",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_160_v1.png",
+          "description": "Hamburguesa de carne 100% vacuna con queso Cheddar, cebolla, mostaza y ketchup",
+          "price": {
+            "amount": 365000,
+            "tax": 0,
+            "formatted": "$3.650,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fc8b",
+          "name": "Big Mac",
+          "identifier": "220",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_220_v1.png",
+          "description": "Hamburguesa 100% carne con salsa especial Bigmac, cebolla, lechuga pepinillo y queso",
+          "price": {
+            "amount": 595000,
+            "tax": 0,
+            "formatted": "$5.950,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fc94",
+          "name": "Cuarto de Libra con Queso",
+          "identifier": "240",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_240_v1.png",
+          "description": "Hamburguesa de carne 100% vacuna, dos fetas de queso Cheddar, kétchup, mostaza y cebolla fresca. Ahora podes pedirlo con o sin Pepinillos",
+          "price": {
+            "amount": 600000,
+            "tax": 0,
+            "formatted": "$6.000,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fca8",
+          "name": "Doble Cuarto de Libra con Queso",
+          "identifier": "7163",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_7163_v1.png",
+          "description": "Hamburguesa con doble carne 100% vacuna, dos fetas de queso Cheddar, kétchup, mostaza y cebolla fresca. Ahora podes pedirlo con o sin Pepinillos",
+          "price": {
+            "amount": 710000,
+            "tax": 0,
+            "formatted": "$7.100,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fcbc",
+          "name": "McNífica",
+          "identifier": "2040",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2040_v1.png",
+          "description": "Hamburguesa de carne 100% vacuna, queso Cheddar, lechuga, tomatem, kétchup, mostaza y cebolla fresca",
+          "price": {
+            "amount": 635000,
+            "tax": 0,
+            "formatted": "$6.350,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fcd1",
+          "name": "Triple Hamburguesa con Queso",
+          "identifier": "1526",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_1526_v1.png",
+          "description": "Tres medallones de carne 100% vacuna, el queso cheddar mas rico, cebolla triturada, mostaza y ketchup",
+          "price": {
+            "amount": 625000,
+            "tax": 0,
+            "formatted": "$6.250,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fce4",
+          "name": "Grand Tasty Doble",
+          "identifier": "2422",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2422_v2.png",
+          "description": "Hamburguesa con doble carne 100% vacuna, salsa Tasty, queso cheddar,lechuga, tomate, cebolla en un pan más grande con semillas",
+          "price": {
+            "amount": 745000,
+            "tax": 0,
+            "formatted": "$7.450,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fcf7",
+          "name": "Grand Tasty Triple",
+          "identifier": "2423",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2423_v2.png",
+          "description": "Hamburguesa con triple carne 100% vacuna, salsa Tasty, queso cheddar,lechuga, tomate, cebolla en un pan más grande con semillas",
+          "price": {
+            "amount": 850000,
+            "tax": 0,
+            "formatted": "$8.500,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fd0a",
+          "name": "Grand Doble McBacon",
+          "identifier": "1703",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_1703_v2.png",
+          "description": "Hamburguesa con doble carne 100% vacuna, bacon premium, queso cheddar, cebolla, kétchup y mostaza en un pan más grande con semillas",
+          "price": {
+            "amount": 770000,
+            "tax": 0,
+            "formatted": "$7.700,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fd1d",
+          "name": "Grand Triple McBacon",
+          "identifier": "1704",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_1704_v2.png",
+          "description": "Hamburguesa con triple carne 100% vacuna, bacon premium, queso cheddar, cebolla, kétchup y mostaza en un pan más grande con semillas",
+          "price": {
+            "amount": 850000,
+            "tax": 0,
+            "formatted": "$8.500,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fd30",
+          "name": "Grand Tasty Turbo Bacon Doble",
+          "identifier": "121",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_121_v2.png",
+          "description": "Hamburguesa en un pan mas grande,con doble carne 100% vacuna, bacon en tiras y triturado, salsa Tasty, cheddar,lechuga, tomate y cebolla",
+          "price": {
+            "amount": 795000,
+            "tax": 0,
+            "formatted": "$7.950,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fd43",
+          "name": "Grand Tasty Turbo Bacon Triple",
+          "identifier": "135",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_135_v2.png",
+          "description": "Hamburguesa con pan mas grande, con triple carne 100% vacuna, bacon en tiras y triturado, salsa tasty, 4 fetas de cheddar, lechuga, tomate y cebolla",
+          "price": {
+            "amount": 895000,
+            "tax": 0,
+            "formatted": "$8.950,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fd56",
+          "name": "McCrispy Chicken Cheddar y Bacon",
+          "identifier": "48091",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48091_v1.png",
+          "description": "Hamburguesa con medallón de pollo, cheddar, bacon, lechuga, tomate y mayonesa",
+          "price": {
+            "amount": 585000,
+            "tax": 0,
+            "formatted": "$5.850,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fd5f",
+          "name": "McCrispy Chicken Deluxe",
+          "identifier": "48979",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48979_v2.png",
+          "description": "Hamburguesa con medallón de pollo, lechuga, tomate y mayonesa",
+          "price": {
+            "amount": 525000,
+            "tax": 0,
+            "formatted": "$5.250,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fd69",
+          "name": "McCrispy Chicken Classic",
+          "identifier": "1707",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_1707_v2.png",
+          "description": "Medallón de pollo crispy, mayonesa y pepinos",
+          "price": {
+            "amount": 465000,
+            "tax": 0,
+            "formatted": "$4.650,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fd72",
+          "name": "McCrispy Chicken Spicy",
+          "identifier": "48092",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48092_v2.png",
+          "description": "Hamburguesa con medallón de pollo, mayonesa, salsa spicy pepper, lechuga y tomate",
+          "price": {
+            "amount": 525000,
+            "tax": 0,
+            "formatted": "$5.250,00"
+          }
+        },
+        {
+          "id": "661399b9882225b1d580fd7d",
+          "name": "McPollo",
+          "identifier": "290",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_290_v1.png",
+          "description": "La textura del pollo hace un gran equipo con la suavidad de la mayonesa y un colchón de lechuga",
+          "price": {
+            "amount": 460000,
+            "tax": 0,
+            "formatted": "$4.600,00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "661399ba882225b1d5810725",
+      "idRfm": "adsa-ar-high-900022",
+      "title": "McNuggets",
+      "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/default/mcdonalds.png",
+      "active": true,
+      "products": [
+        {
+          "id": "661399ba882225b1d5810734",
+          "name": "McNuggets x4",
+          "identifier": "6294",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_6294_v2.png",
+          "description": "4 McNuggets de pechuga de pollo",
+          "price": {
+            "amount": 410000,
+            "tax": 0,
+            "formatted": "$4.100,00"
+          }
+        },
+        {
+          "id": "661399ba882225b1d5810739",
+          "name": "Mc Nuggets x 6",
+          "identifier": "300",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV-300.png",
+          "description": "6 McNuggets de pechuga de pollo",
+          "price": {
+            "amount": 510000,
+            "tax": 0,
+            "formatted": "$5.100,00"
+          }
+        },
+        {
+          "id": "661399ba882225b1d5810747",
+          "name": "McNuggets x 10",
+          "identifier": "4725",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV-4725.png",
+          "description": "10 McNuggets de pechuga de pollo con 2 salsas a elección",
+          "price": {
+            "amount": 535000,
+            "tax": 0,
+            "formatted": "$5.350,00"
+          }
+        },
+        {
+          "id": "661399ba882225b1d581075a",
+          "name": "McNuggets x 20",
+          "identifier": "320",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV-320.png",
+          "description": "20 McNuggets de pechuga de pollo con 4 salsas a elección",
+          "price": {
+            "amount": 685000,
+            "tax": 0,
+            "formatted": "$6.850,00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "661399bb882225b1d58110ca",
+      "idRfm": "adsa-ar-high-900023",
+      "title": "Ensaladas",
+      "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/default/mcdonalds.png",
+      "active": true,
+      "products": [
+        {
+          "id": "661399bb882225b1d58110d9",
+          "name": "Ensalada Deli Guacamole Veggie",
+          "identifier": "201",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_201_v1.png",
+          "description": "La más deliciosa combinación de mix de verdes, tomate, cebolla grillada, guacamole y dos huevos. Una exquisita mezcla de los vegetales, las texturas crocantes de los croutones y el French Dressing!",
+          "price": {
+            "amount": 595000,
+            "tax": 0,
+            "formatted": "$5.950,00"
+          }
+        },
+        {
+          "id": "661399bb882225b1d58110f0",
+          "name": "Ensalada Deli Guacamole",
+          "identifier": "215",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_204_v1.png",
+          "description": "La más deliciosa combinación de mix de verdes, tomate, cebolla grillada, guacamole, un huevo y una proteína a elección (pollo crispy, pollo grille o carne). Una exquisita mezcla de los vegetales, las texturas crocantes de los croutones y el French Dressing!",
+          "price": {
+            "amount": 715000,
+            "tax": 0,
+            "formatted": "$7.150,00"
+          }
+        },
+        {
+          "id": "661399bb882225b1d5811112",
+          "name": "Ensalada Caesar",
+          "identifier": "48261",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48261_v1.png",
+          "description": "Ensalada de mix de hojas verdes, queso parmesano en hebras, bacon picado, croutons y una proteina a elección. Con un exquisito adherezo caesar",
+          "price": {
+            "amount": 715000,
+            "tax": 0,
+            "formatted": "$7.150,00"
+          }
+        },
+        {
+          "id": "661399bb882225b1d581112f",
+          "name": "Menú Ensalada Deli Guacamole Veggie",
+          "identifier": "26967",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26967_v1.png",
+          "description": "La más deliciosa combinación de mix de verdes, tomate, cebolla grillada, guacamole y dos huevos. Una exquisita mezcla de los vegetales, las texturas crocantes de los croutones y el French Dressing! Acompañana con bebida a elección",
+          "price": {
+            "amount": 755000,
+            "tax": 0,
+            "formatted": "$7.550,00"
+          }
+        },
+        {
+          "id": "661399bb882225b1d5811157",
+          "name": "Menú ensalada Deli Guacamole",
+          "identifier": "26968",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26968_v1.png",
+          "description": "La más deliciosa combinación de mix de verdes, tomate, cebolla grillada, guacamole, un huevo y una proteína a elección (pollo crispy, pollo grille o carne). Una exquisita mezcla de los vegetales, las texturas crocantes de los croutones y el French Dressing! Acompañada con bebida a elección",
+          "price": {
+            "amount": 870000,
+            "tax": 0,
+            "formatted": "$8.700,00"
+          }
+        },
+        {
+          "id": "661399bb882225b1d581118a",
+          "name": "Menú Ensalada Caesar",
+          "identifier": "48264",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48264_v2.png",
+          "description": "Ensalada de mix de hojas verdes, queso parmesano en hebras, bacon picado, croutons y una proteina a elección. Con un exquisito adherezo caesar. Acompañada de una bebida a elección",
+          "price": {
+            "amount": 870000,
+            "tax": 0,
+            "formatted": "$8.700,00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "661399bd882225b1d5812672",
+      "idRfm": "adsa-ar-high-900025",
+      "title": "Exclusivo AutoMac",
+      "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/default/mcdonalds.png",
+      "active": true,
+      "products": [
+        {
+          "id": "661399bd882225b1d5812681",
+          "name": "2 Big Mac o 2 Cuarto de libra o 2 McPollo + 2 Papas Grandes",
+          "identifier": "49013",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_49013_v1.png",
+          "description": "2 hamburguesas classics (podes elegir 2 haburguesas Mc Pollo, Cuarto de Libra ó BigMac) +2 papas grandes",
+          "price": {
+            "amount": 1229900,
+            "tax": 0,
+            "formatted": "$12.299,00"
+          }
+        },
+        {
+          "id": "661399bd882225b1d58126fa",
+          "name": "Cajita Feliz + Big Mac o Cuarto de Libra o McPollo + Papas Medianas",
+          "identifier": "49014",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_49014_v2.png",
+          "description": "1 Hamburguesa Classics (podes elegir entre Mc Pollo, Cuarto de Libra o BigMac ) + 1 Papas Medianas y una Cajita Feliz",
+          "price": {
+            "amount": 899900,
+            "tax": 0,
+            "formatted": "$8.999,00"
+          }
+        },
+        {
+          "id": "661399bd882225b1d581278e",
+          "name": "4 Hamburguesas con queso + 2 Papas Grandes + McNuggets x4",
+          "identifier": "49015",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_49015_v1.png",
+          "description": "4 Hamburguesas con Queso+ 2 Papas Grandes+ Nuggets x 4",
+          "price": {
+            "amount": 1579900,
+            "tax": 0,
+            "formatted": "$15.799,00"
+          }
+        },
+        {
+          "id": "661399bd882225b1d58127ef",
+          "name": "1Grand Tasty Spicy Doble+ y 1 Grand Doble McBacon + 1 Cajita Feliz +2 papas Medianas",
+          "identifier": "901",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_901_v1.png",
+          "description": "1Grand Tasty Spicy Doble+ y 1 Grand Doble McBacon + 1 Cajita Feliz +2 papas Medianas",
+          "price": {
+            "amount": 1764900,
+            "tax": 0,
+            "formatted": "$17.649,00"
+          }
+        },
+        {
+          "id": "661399bd882225b1d581285c",
+          "name": "3 Big Mac o 3 Cuarto de libra o 3 McPollo + 3 Papas Grandes",
+          "identifier": "49017",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_49017_v1.png",
+          "description": "3 Hamburguesas classics (podes elegir 3 hamburguesas McPollo, Cuarto de Libra ó BigMac) +3 papas grandes",
+          "price": {
+            "amount": 1729900,
+            "tax": 0,
+            "formatted": "$17.299,00"
+          }
+        },
+        {
+          "id": "661399bd882225b1d581290d",
+          "name": "Cajita feliz + 2 Big Mac o 2 Cuarto de Libra o 2 McPollo + 2 Papas Medianas",
+          "identifier": "49018",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_49018_v2.png",
+          "description": "2 Hamburguesas Classics (podes elegir entre 2 McPollo Cuarto de Libra o BigMac ) + 2 Papas Medianas y una Cajita Feliz",
+          "price": {
+            "amount": 1529900,
+            "tax": 0,
+            "formatted": "$15.299,00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "661399bf882225b1d5813942",
+      "idRfm": "adsa-ar-high-900035",
+      "title": "Para acompañar",
+      "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/default/mcdonalds.png",
+      "active": true,
+      "products": [
+        {
+          "id": "661399bf882225b1d5813951",
+          "name": "Pileta de Cheddar",
+          "identifier": "48233",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48004_v1.png",
+          "description": "Una Pelopincho de nuestro inigualable queso cheddar derretido ideal para acompañar tu hamburguesa, McNuggets, tus papas o lo quieras",
+          "price": {
+            "amount": 190000,
+            "tax": 0,
+            "formatted": "$1.900,00"
+          }
+        },
+        {
+          "id": "661399bf882225b1d5813952",
+          "name": "Papas Pequeñas",
+          "identifier": "360",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/Papas-Chicas.png",
+          "description": "Calientes, crujientes y deliciosas. Disfrutá de nuestras papas mundialmente famosas, desde la primera hasta la última",
+          "price": {
+            "amount": 235000,
+            "tax": 0,
+            "formatted": "$2.350,00"
+          }
+        },
+        {
+          "id": "661399bf882225b1d581395d",
+          "name": "Papas Fritas Medianas",
+          "identifier": "370",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_370_v1.png",
+          "description": "Calientes, crujientes y deliciosas. Disfrutá de nuestras papas mundialmente famosas, desde la primera hasta la última",
+          "price": {
+            "amount": 255000,
+            "tax": 0,
+            "formatted": "$2.550,00"
+          }
+        },
+        {
+          "id": "661399bf882225b1d5813968",
+          "name": "Papas Fritas Grandes",
+          "identifier": "380",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_380_v1.png",
+          "description": "Calientes, crujientes y deliciosas. Disfrutá de nuestras papas mundialmente famosas, desde la primera hasta la última",
+          "price": {
+            "amount": 270000,
+            "tax": 0,
+            "formatted": "$2.700,00"
+          }
+        },
+        {
+          "id": "661399bf882225b1d5813973",
+          "name": "Papa Cheddar",
+          "identifier": "5762",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/McCheddarBaconCajita.png",
+          "description": "Papas fritas queso cheddaar fundido. Disfrutá de nuestras papas mundialmente famosas, desde la primera hasta la última",
+          "price": {
+            "amount": 305000,
+            "tax": 0,
+            "formatted": "$3.050,00"
+          }
+        },
+        {
+          "id": "661399bf882225b1d581397f",
+          "name": "Papas con Cheddar y Bacon",
+          "identifier": "5761",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/NGK%20-%205761%20PapasCheddarBacon.png",
+          "description": "Papas fritas queso cheddaar fundido y bacon. Disfrutá de nuestras papas mundialmente famosas, desde la primera hasta la última",
+          "price": {
+            "amount": 355000,
+            "tax": 0,
+            "formatted": "$3.550,00"
+          }
+        },
+        {
+          "id": "661399bf882225b1d581398c",
+          "name": "Papas Tasty",
+          "identifier": "2404",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/NGK-Papas%20Tasty%20Bacon.png",
+          "description": "Papas con salsa Tasty",
+          "price": {
+            "amount": 305000,
+            "tax": 0,
+            "formatted": "$3.050,00"
+          }
+        },
+        {
+          "id": "661399bf882225b1d5813997",
+          "name": "Papas Tasty y Bacon",
+          "identifier": "2405",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/Papas%20Tasty%20Bacon.png",
+          "description": "Papas con salsa Tasty y Bacon",
+          "price": {
+            "amount": 355000,
+            "tax": 0,
+            "formatted": "$3.550,00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "661399bf882225b1d58142aa",
+      "idRfm": "adsa-ar-high-900080",
+      "title": "Postres",
+      "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/default/mcdonalds.png",
+      "active": true,
+      "products": [
+        {
+          "id": "661399bf882225b1d58142b9",
+          "name": "Cono de Vainilla",
+          "identifier": "820",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_820_v2.png",
+          "price": {
+            "amount": 100000,
+            "tax": 0,
+            "formatted": "$1.000,00"
+          }
+        },
+        {
+          "id": "661399bf882225b1d58142be",
+          "name": "Cono Combinado",
+          "identifier": "2111",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2111_v2.png",
+          "price": {
+            "amount": 100000,
+            "tax": 0,
+            "formatted": "$1.000,00"
+          }
+        },
+        {
+          "id": "661399bf882225b1d58142c3",
+          "name": "Cono de Dulce de Leche",
+          "identifier": "2110",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2110_v2.png",
+          "price": {
+            "amount": 100000,
+            "tax": 0,
+            "formatted": "$1.000,00"
+          }
+        },
+        {
+          "id": "661399bf882225b1d58142c8",
+          "name": "Cono KitKat",
+          "identifier": "7288",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_7288_v2.png",
+          "price": {
+            "amount": 160000,
+            "tax": 0,
+            "formatted": "$1.600,00"
+          }
+        },
+        {
+          "id": "661399bf882225b1d58142d1",
+          "name": "Cono Relleno",
+          "identifier": "7494",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_7494_v2.png",
+          "description": "Cono relleno",
+          "price": {
+            "amount": 140000,
+            "tax": 0,
+            "formatted": "$1.400,00"
+          }
+        },
+        {
+          "id": "661399bf882225b1d58142df",
+          "name": "Super Cono",
+          "identifier": "53",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_53_v2.png",
+          "price": {
+            "amount": 120000,
+            "tax": 0,
+            "formatted": "$1.200,00"
+          }
+        },
+        {
+          "id": "661399bf882225b1d58142e8",
+          "name": "Sundae Dulce de Leche",
+          "identifier": "800",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_800_v2.png",
+          "description": "El helado mas rico con una salsa tibia de dulce de leche",
+          "price": {
+            "amount": 230000,
+            "tax": 0,
+            "formatted": "$2.300,00"
+          }
+        },
+        {
+          "id": "661399bf882225b1d58142f2",
+          "name": "Sundae de Chocolate",
+          "identifier": "780",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_780_v2.png",
+          "description": "El helado mas rico con una salsa tibia de chocolate",
+          "price": {
+            "amount": 230000,
+            "tax": 0,
+            "formatted": "$2.300,00"
+          }
+        },
+        {
+          "id": "661399bf882225b1d58142fc",
+          "name": "Sundae de Frutilla",
+          "identifier": "790",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_790_v2.png",
+          "description": "El helado mas rico con una salsa tibia de frutilla",
+          "price": {
+            "amount": 230000,
+            "tax": 0,
+            "formatted": "$2.300,00"
+          }
+        },
+        {
+          "id": "661399bf882225b1d5814306",
+          "name": "McFlurry Chocotorta",
+          "identifier": "2354",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2354_v2.png",
+          "description": "Doble porcion de salsa Chocotorta, trocitos de galletitas Chocolinas y helado de vainilla. ¡Una Chocotorta hecha McFlurry!",
+          "price": {
+            "amount": 340000,
+            "tax": 0,
+            "formatted": "$3.400,00"
+          }
+        },
+        {
+          "id": "661399bf882225b1d5814312",
+          "name": "McFlurry Oreo",
+          "identifier": "2060",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2060_v1.png",
+          "description": "Un helado de vainilla que se banca compartir el protagonismo con trocitos de deliciosas galletitas Oreo y la salsa que elijas. Amalo hasta el final",
+          "price": {
+            "amount": 340000,
+            "tax": 0,
+            "formatted": "$3.400,00"
+          }
+        },
+        {
+          "id": "661399bf882225b1d5814327",
+          "name": "McFlurry KitKat",
+          "identifier": "1647",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_1647_v1.png",
+          "description": "Trocitos de Kit Kat con helado y salsa tibia a elección",
+          "price": {
+            "amount": 340000,
+            "tax": 0,
+            "formatted": "$3.400,00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "661399c1882225b1d581513b",
+      "idRfm": "adsa-ar-high-900100",
+      "title": "Bebidas",
+      "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/default/mcdonalds.png",
+      "active": true,
+      "products": [
+        {
+          "id": "661399c1882225b1d581514a",
+          "name": "Agua Frutada Power Day",
+          "identifier": "48077",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV-48077-POWERDAY.png",
+          "description": "Bebida refrescante con naranja, mango, maracuyá y miel",
+          "price": {
+            "amount": 215000,
+            "tax": 0,
+            "formatted": "$2.150,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d581514b",
+          "name": "Agua Frutada Chill Day",
+          "identifier": "48078",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV-48078-CHILLDAY.png",
+          "description": "Bebida refrescante con Limon, kiwi, melon y pepino",
+          "price": {
+            "amount": 215000,
+            "tax": 0,
+            "formatted": "$2.150,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d581514c",
+          "name": "Coca Cola chica",
+          "identifier": "430",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_430_v3.png",
+          "price": {
+            "amount": 195000,
+            "tax": 0,
+            "formatted": "$1.950,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d581514f",
+          "name": "Coca-Cola Mediana",
+          "identifier": "500",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_500_v3.png",
+          "description": "Refrescante gaseosa Coca Cola en tamaño mediano",
+          "price": {
+            "amount": 220000,
+            "tax": 0,
+            "formatted": "$2.200,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d5815152",
+          "name": "Coca-Cola Grande",
+          "identifier": "570",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_570_v3.png",
+          "description": "Refrescante gaseosa Coca Cola en tamaño grande",
+          "price": {
+            "amount": 250000,
+            "tax": 0,
+            "formatted": "$2.500,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d5815155",
+          "name": "Coca Cola Zero chica",
+          "identifier": "887",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_887_v2.png",
+          "price": {
+            "amount": 195000,
+            "tax": 0,
+            "formatted": "$1.950,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d5815158",
+          "name": "Coca-Cola Zero Mediana",
+          "identifier": "893",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_893_v2.png",
+          "description": "Refrescante gaseosa Coca Cola sin azúcar en tamaño mediano",
+          "price": {
+            "amount": 220000,
+            "tax": 0,
+            "formatted": "$2.200,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d581515b",
+          "name": "Coca-Cola Zero Grande",
+          "identifier": "897",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_897_v2.png",
+          "description": "Refrescante gaseosa Coca Cola sin azúcar en tamaño grande",
+          "price": {
+            "amount": 250000,
+            "tax": 0,
+            "formatted": "$2.500,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d581515e",
+          "name": "Sprite Zero chica",
+          "identifier": "7085",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_7085_v2.png",
+          "description": "Sprite Zero chica",
+          "price": {
+            "amount": 195000,
+            "tax": 0,
+            "formatted": "$1.950,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d5815161",
+          "name": "Sprite Zero Mediana",
+          "identifier": "7086",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_7086_v2.png",
+          "description": "Refrescante gaseosa Sprite Zero en tamaño mediano",
+          "price": {
+            "amount": 220000,
+            "tax": 0,
+            "formatted": "$2.200,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d5815164",
+          "name": "Sprite Zero Grande",
+          "identifier": "7087",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_7087_v2.png",
+          "description": "Refrescante gaseosa Sprite Zero en tamaño grande",
+          "price": {
+            "amount": 250000,
+            "tax": 0,
+            "formatted": "$2.500,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d5815167",
+          "name": "Fanta Zero chica",
+          "identifier": "460",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_460_v2.png",
+          "description": "Fanta Zero chica",
+          "price": {
+            "amount": 195000,
+            "tax": 0,
+            "formatted": "$1.950,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d581516a",
+          "name": "Fanta Zero Mediana",
+          "identifier": "530",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_530_v2.png",
+          "description": "Refrescante gaseosa Fanta Zero en tamaño mediano",
+          "price": {
+            "amount": 220000,
+            "tax": 0,
+            "formatted": "$2.200,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d581516d",
+          "name": "Fanta Zero Grande",
+          "identifier": "600",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_600_v2.png",
+          "description": "Refrescante gaseosa Fanta Zero en tamaño grande",
+          "price": {
+            "amount": 250000,
+            "tax": 0,
+            "formatted": "$2.500,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d5815170",
+          "name": "Agua",
+          "identifier": "900",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_900_v1.png",
+          "description": "Botella de 500ml de agua mineral",
+          "price": {
+            "amount": 180000,
+            "tax": 0,
+            "formatted": "$1.800,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d5815171",
+          "name": "Café Americano",
+          "identifier": "768",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_768_v1.png",
+          "description": "Café americano en vaso de 300 ml",
+          "price": {
+            "amount": 125000,
+            "tax": 0,
+            "formatted": "$1.250,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d581517a",
+          "name": "Latte Americano",
+          "identifier": "783",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_783_v1.png",
+          "description": "Bebida caliente con 40% Café americano y 60% de leche en vaso de 300 ml",
+          "price": {
+            "amount": 125000,
+            "tax": 0,
+            "formatted": "$1.250,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d5815183",
+          "name": "Lágrima Americano",
+          "identifier": "1133",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_1133_v1.png",
+          "description": "Bebida caliente con 90% leche y 10% Café americano en vaso de 300 ml",
+          "price": {
+            "amount": 125000,
+            "tax": 0,
+            "formatted": "$1.250,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d581518c",
+          "name": "Té",
+          "identifier": "650",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_650_v1.png",
+          "description": "Té negro en vaso de 300 ml",
+          "price": {
+            "amount": 125000,
+            "tax": 0,
+            "formatted": "$1.250,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d5815195",
+          "name": "Cappuccino Americano",
+          "identifier": "782",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_782_v1.png",
+          "description": "Bebida caliente 70% Café americano, 30% leche, terminado con espuma de leche y cacao en vaso de 300 ml",
+          "price": {
+            "amount": 125000,
+            "tax": 0,
+            "formatted": "$1.250,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d581519e",
+          "name": "Jugo de Manzana",
+          "identifier": "13406",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/NGK%20-%2013406%20-%20Jugo%20de%20manzana.png",
+          "description": "Jugo 100% manzana",
+          "price": {
+            "amount": 145000,
+            "tax": 0,
+            "formatted": "$1.450,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d58151a1",
+          "name": "Jugo de Naranja",
+          "identifier": "470",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/Jugo%20de%20naranja1.png",
+          "description": "Jugo de Naranja",
+          "price": {
+            "amount": 130000,
+            "tax": 0,
+            "formatted": "$1.300,00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "661399c1882225b1d5815c07",
+      "idRfm": "adsa-ar-high-900112",
+      "title": "Productos Sin TACC",
+      "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/default/mcdonalds.png",
+      "active": true,
+      "products": [
+        {
+          "id": "661399c1882225b1d5815c16",
+          "name": "McCombo Mediano Big Mac sin TACC",
+          "identifier": "49004",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/Sin%20TACC_500x500.png",
+          "description": "Dos medallones de carne y lechuga(ingredientes se envian por separado). Papas medianas y agua mineral 500 ml. lo llevas con un pan sin tacc",
+          "price": {
+            "amount": 830000,
+            "tax": 0,
+            "formatted": "$8.300,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d5815c20",
+          "name": "McCombo Grande Big Mac sin TACC",
+          "identifier": "49007",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/Sin%20TACC_500x500.png",
+          "description": "Dos medallones de carne y lechuga(ingredientes se envian por separado). Papas grandes y agua mineral 500 ml. lo llevas con un pan sin tacc",
+          "price": {
+            "amount": 930000,
+            "tax": 0,
+            "formatted": "$9.300,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d5815c2a",
+          "name": "McCombo Mediano McNifica sin TACC",
+          "identifier": "49003",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/Sin%20TACC_500x500.png",
+          "description": "Medallon de carne, cebolla, lechuga y tomate, acompañados con papas medianas y agua mineral 500 ml. lo llevas con un pan sin tacc",
+          "price": {
+            "amount": 900000,
+            "tax": 0,
+            "formatted": "$9.000,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d5815c36",
+          "name": "McCombo Grande McNifica sin TACC",
+          "identifier": "49006",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/Sin%20TACC_500x500.png",
+          "description": "Medallon de carne, cebolla, lechuga y tomate, acompañados con papas grandes y agua mineral 500 ml. lo llevas con un pan sin tacc",
+          "price": {
+            "amount": 1000000,
+            "tax": 0,
+            "formatted": "$10.000,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d5815c42",
+          "name": "Cajita Feliz McFiesta Jr sin TACC",
+          "identifier": "49010",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/Sin%20TACC_500x500.png",
+          "description": "Medallon de carne con lechuga y tomate. Acompañado con papas Kids, YogurKid y agua mineral 500 ml. lo llevas con un pan sin tacc",
+          "price": {
+            "amount": 590000,
+            "tax": 0,
+            "formatted": "$5.900,00"
+          }
+        },
+        {
+          "id": "661399c1882225b1d5815c6f",
+          "name": "Sundae con ingredientes sin TACC",
+          "identifier": "49009",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/Sin%20TACC_500x500.png",
+          "description": "Helado de Vainilla, Dulce de leche o combinado con Salsa de Dulce de Leche o Chocolate",
+          "price": {
+            "amount": 230000,
+            "tax": 0,
+            "formatted": "$2.300,00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "661399c2882225b1d58166bc",
+      "idRfm": "adsa-ar-high-900120",
+      "title": "McCafé con Americano",
+      "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/default/mcdonalds.png",
+      "active": true,
+      "products": [
+        {
+          "id": "661399c2882225b1d58166cb",
+          "name": "Café con 2 facturas",
+          "identifier": "26040",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26040_1.png",
+          "description": "Café en vaso de 300 Ml con dos facturas a elección",
+          "price": {
+            "amount": 129900,
+            "tax": 0,
+            "formatted": "$1.299,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d58166ed",
+          "name": "Café con 3 facturas",
+          "identifier": "26041",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26041_1.png",
+          "description": "Café en vaso de 300 Ml con tres facturas a elección",
+          "price": {
+            "amount": 180000,
+            "tax": 0,
+            "formatted": "$1.800,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d5816713",
+          "name": "Café con Donut",
+          "identifier": "26522",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26522.png",
+          "description": "Café en vaso de 300 Ml a elección con una Donut glaseada o de chocolate",
+          "price": {
+            "amount": 165000,
+            "tax": 0,
+            "formatted": "$1.650,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d5816730",
+          "name": "Café con McQueso",
+          "identifier": "26980",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26980_v1.png",
+          "description": "Café en vaso de 300 Ml a elección con tostado de queso Cheddar y un toque de mostaza",
+          "price": {
+            "amount": 260000,
+            "tax": 0,
+            "formatted": "$2.600,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d581674e",
+          "name": "Café con Poundcake",
+          "identifier": "26981",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26981_v1.png",
+          "description": "Café en vaso de 300 Ml a elección con una porción de poundcake",
+          "price": {
+            "amount": 260000,
+            "tax": 0,
+            "formatted": "$2.600,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d581676c",
+          "name": "Café con Alfajor de Maicena",
+          "identifier": "26983",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26983_v1.png",
+          "description": "Café en vaso de 300 Ml a elección con un alfajor de maicena",
+          "price": {
+            "amount": 210000,
+            "tax": 0,
+            "formatted": "$2.100,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d5816786",
+          "name": "Café con Barrita de Cereal",
+          "identifier": "26985",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26985_v1.png",
+          "description": "Café en vaso de 300 Ml e elección con una barrita",
+          "price": {
+            "amount": 210000,
+            "tax": 0,
+            "formatted": "$2.100,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d58167a3",
+          "name": "Café Americano",
+          "identifier": "768",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_768_v1.png",
+          "description": "Café americano en vaso de 300 ml",
+          "price": {
+            "amount": 125000,
+            "tax": 0,
+            "formatted": "$1.250,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d58167ac",
+          "name": "Latte Americano",
+          "identifier": "783",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_783_v1.png",
+          "description": "Bebida caliente con 40% Café americano y 60% de leche en vaso de 300 ml",
+          "price": {
+            "amount": 125000,
+            "tax": 0,
+            "formatted": "$1.250,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d58167b5",
+          "name": "Lágrima Americano",
+          "identifier": "1133",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_1133_v1.png",
+          "description": "Bebida caliente con 90% leche y 10% Café americano en vaso de 300 ml",
+          "price": {
+            "amount": 125000,
+            "tax": 0,
+            "formatted": "$1.250,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d58167be",
+          "name": "Cappuccino Americano",
+          "identifier": "782",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_782_v1.png",
+          "description": "Bebida caliente 70% Café americano, 30% leche, terminado con espuma de leche y cacao en vaso de 300 ml",
+          "price": {
+            "amount": 125000,
+            "tax": 0,
+            "formatted": "$1.250,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d58167c7",
+          "name": "Té",
+          "identifier": "650",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_650_v1.png",
+          "description": "Té negro en vaso de 300 ml",
+          "price": {
+            "amount": 125000,
+            "tax": 0,
+            "formatted": "$1.250,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d58167d0",
+          "name": "Factura",
+          "identifier": "660",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/medialuna%201.png",
+          "description": "Elegí entre medialuna de manteca, criollito de grasa ó factura de membrillo",
+          "price": {
+            "amount": 55000,
+            "tax": 0,
+            "formatted": "$550,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d58167d5",
+          "name": "Donut",
+          "identifier": "5527",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/Donuts.png",
+          "description": "Donut glaseada o cubierta con chocolate",
+          "price": {
+            "amount": 105000,
+            "tax": 0,
+            "formatted": "$1.050,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d58167d9",
+          "name": "Barrita de Girasol y Arandános",
+          "identifier": "26984",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26984_v2.png",
+          "description": "Barrita de cereal de girasol y arándanos",
+          "price": {
+            "amount": 105000,
+            "tax": 0,
+            "formatted": "$1.050,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d58167e2",
+          "name": "Barrita de cereal Chocolate y Arándanos",
+          "identifier": "808",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_808_24ENE24.png",
+          "description": "Barrita de cereal de chocolate semiamargo, maní y arándanos",
+          "price": {
+            "amount": 105000,
+            "tax": 0,
+            "formatted": "$1.050,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d58167eb",
+          "name": "Poundcake Naranja",
+          "identifier": "1969",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_1969_24ENE24.png",
+          "description": "Masa tierna, esponjosa, aireada, húmeda con sabor a naranja",
+          "price": {
+            "amount": 200000,
+            "tax": 0,
+            "formatted": "$2.000,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d58167ec",
+          "name": "Poundcake Devil´s Cake",
+          "identifier": "13506",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/NGK%20-%20Poundcake%20DevilsCake.png",
+          "description": "Tradicional receta americana, con una húmeda masa esponjosa y bañado en chocolate",
+          "price": {
+            "amount": 200000,
+            "tax": 0,
+            "formatted": "$2.000,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d58167ed",
+          "name": "Poundcake Banana y nuez",
+          "identifier": "8419",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/8419.png",
+          "description": "Masa tierna, esponjosa, aireada, húmeda con sabor a banana con trozos de nuez",
+          "price": {
+            "amount": 200000,
+            "tax": 0,
+            "formatted": "$2.000,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d58167ee",
+          "name": "Alfajor de Maicena",
+          "identifier": "6955",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/6955.png",
+          "description": "Masa de maicena rellena de dulce de leche y decorado con coco",
+          "price": {
+            "amount": 135000,
+            "tax": 0,
+            "formatted": "$1.350,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d58167ef",
+          "name": "Grand Tostado",
+          "identifier": "2587",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2223_24ENE24.png",
+          "description": "Sándwich tostado de jamón y queso blanco",
+          "price": {
+            "amount": 250000,
+            "tax": 0,
+            "formatted": "$2.500,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d58167f0",
+          "name": "Tostado Lomo y Queso",
+          "identifier": "13315",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/500x500--TOSTADO-MIXTO.png",
+          "description": "Tostado con lomo y queso en pan kaiser",
+          "price": {
+            "amount": 205000,
+            "tax": 0,
+            "formatted": "$2.050,00"
+          }
+        },
+        {
+          "id": "661399c2882225b1d58167f6",
+          "name": "McQueso",
+          "identifier": "190",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_190_24ENE24.png",
+          "description": "Tostado de queso cheddar y mostaza",
+          "price": {
+            "amount": 225000,
+            "tax": 0,
+            "formatted": "$2.250,00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "661399c3882225b1d5816b5e",
+      "idRfm": "adsa-ar-high-900508",
+      "title": "McCafé Promociones",
+      "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/default/mcdonalds.png",
+      "active": false,
+      "products": [
+        {
+          "id": "661399c3882225b1d5816b66",
+          "name": "Café con Grand Tostado",
+          "identifier": "2591",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2591_v1.png",
+          "description": "Café + Grand Tostado",
+          "price": {
+            "amount": 290000,
+            "tax": 0,
+            "formatted": "$2.900,00"
+          }
+        },
+        {
+          "id": "661399c3882225b1d5816b80",
+          "name": "Comprando Café Americano, Barrita Gratis",
+          "identifier": "26987",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26987_v8.png",
+          "description": "Comprando un Café Americano, llevate una barrita de cereal Gratis",
+          "price": {
+            "amount": 125000,
+            "tax": 0,
+            "formatted": "$1.250,00"
+          }
+        },
+        {
+          "id": "661399c3882225b1d5816b9d",
+          "name": "2 Cafés con Poundcake",
+          "identifier": "26990",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26990_v17.png",
+          "description": "2 Café + 1 Poundcake a elección",
+          "price": {
+            "amount": 370000,
+            "tax": 0,
+            "formatted": "$3.700,00"
+          }
+        },
+        {
+          "id": "661399c3882225b1d5816bd0",
+          "name": "Café con Alfajor y Jugo",
+          "identifier": "26982",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26982_v16.png",
+          "description": "Alfajor de maicena + Café + Jugo",
+          "price": {
+            "amount": 230000,
+            "tax": 0,
+            "formatted": "$2.300,00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "661399c4882225b1d58174d6",
+      "idRfm": "adsa-ar-high-900510",
+      "title": "McCafé Desayuno",
+      "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/default/mcdonalds.png",
+      "active": false,
+      "products": [
+        {
+          "id": "661399c4882225b1d58174de",
+          "name": "Café con 2 facturas",
+          "identifier": "48029",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48029_v14.png",
+          "description": "Café con dos facturas a elección",
+          "price": {
+            "amount": 129900,
+            "tax": 0,
+            "formatted": "$1.299,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817500",
+          "name": "Café con 3 facturas",
+          "identifier": "26041",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26041_1.png",
+          "description": "Café en vaso de 300 Ml con tres facturas a elección",
+          "price": {
+            "amount": 180000,
+            "tax": 0,
+            "formatted": "$1.800,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817526",
+          "name": "Café con Donut",
+          "identifier": "26522",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26522.png",
+          "description": "Café en vaso de 300 Ml a elección con una Donut glaseada o de chocolate",
+          "price": {
+            "amount": 165000,
+            "tax": 0,
+            "formatted": "$1.650,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817543",
+          "name": "Café con Tostado Lomo y Queso",
+          "identifier": "26805",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26805_1.png",
+          "description": "Café en vaso de 300 Ml a elección con tostado de lomo y queso en pan kaiser",
+          "price": {
+            "amount": 260000,
+            "tax": 0,
+            "formatted": "$2.600,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817562",
+          "name": "Café con McQueso",
+          "identifier": "26980",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26980_v1.png",
+          "description": "Café en vaso de 300 Ml a elección con tostado de queso Cheddar y un toque de mostaza",
+          "price": {
+            "amount": 260000,
+            "tax": 0,
+            "formatted": "$2.600,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817580",
+          "name": "Café con Sandwich huevo y queso",
+          "identifier": "26942",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26942_v1.png",
+          "description": "Disfruta de un Café a elección con un Sandwich con Huevo y Queso cheddar",
+          "price": {
+            "amount": 285000,
+            "tax": 0,
+            "formatted": "$2.850,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d58175a0",
+          "name": "Café con Sandwich Bacon Queso y Huevo",
+          "identifier": "26279",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26279_v1.png",
+          "description": "Disfruta de un café a elección con un sandwich con Bacon, Queso cheddar y Huevo",
+          "price": {
+            "amount": 330000,
+            "tax": 0,
+            "formatted": "$3.300,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d58175be",
+          "name": "Café con Sandwich Lomo Queso y Huevo",
+          "identifier": "26278",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26278_v1.png",
+          "description": "Disfruta un Café con un Sandwich Lomito, Queso cheddar y Huevo",
+          "price": {
+            "amount": 330000,
+            "tax": 0,
+            "formatted": "$3.300,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d58175de",
+          "name": "Café con Poundcake",
+          "identifier": "26981",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26981_v1.png",
+          "description": "Café en vaso de 300 Ml a elección con una porción de poundcake",
+          "price": {
+            "amount": 260000,
+            "tax": 0,
+            "formatted": "$2.600,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d58175fc",
+          "name": "Café con Alfajor de Maicena",
+          "identifier": "26983",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26983_v1.png",
+          "description": "Café en vaso de 300 Ml a elección con un alfajor de maicena",
+          "price": {
+            "amount": 210000,
+            "tax": 0,
+            "formatted": "$2.100,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817616",
+          "name": "Café con Barrita de Cereal",
+          "identifier": "26985",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26985_v1.png",
+          "description": "Café en vaso de 300 Ml e elección con una barrita",
+          "price": {
+            "amount": 210000,
+            "tax": 0,
+            "formatted": "$2.100,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817633",
+          "name": "Factura",
+          "identifier": "660",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/medialuna%201.png",
+          "description": "Elegí entre medialuna de manteca, criollito de grasa ó factura de membrillo",
+          "price": {
+            "amount": 55000,
+            "tax": 0,
+            "formatted": "$550,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817638",
+          "name": "Donut",
+          "identifier": "5527",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/Donuts.png",
+          "description": "Donut glaseada o cubierta con chocolate",
+          "price": {
+            "amount": 105000,
+            "tax": 0,
+            "formatted": "$1.050,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d581763c",
+          "name": "Barrita de Girasol y Arandános",
+          "identifier": "26984",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26984_v2.png",
+          "description": "Barrita de cereal de girasol y arándanos",
+          "price": {
+            "amount": 105000,
+            "tax": 0,
+            "formatted": "$1.050,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817645",
+          "name": "Poundcake Naranja",
+          "identifier": "1969",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_1969_24ENE24.png",
+          "description": "Masa tierna, esponjosa, aireada, húmeda con sabor a naranja",
+          "price": {
+            "amount": 200000,
+            "tax": 0,
+            "formatted": "$2.000,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817646",
+          "name": "Poundcake Devil´s Cake",
+          "identifier": "13506",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/NGK%20-%20Poundcake%20DevilsCake.png",
+          "description": "Tradicional receta americana, con una húmeda masa esponjosa y bañado en chocolate",
+          "price": {
+            "amount": 200000,
+            "tax": 0,
+            "formatted": "$2.000,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817647",
+          "name": "Poundcake Banana y nuez",
+          "identifier": "8419",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/8419.png",
+          "description": "Masa tierna, esponjosa, aireada, húmeda con sabor a banana con trozos de nuez",
+          "price": {
+            "amount": 200000,
+            "tax": 0,
+            "formatted": "$2.000,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817648",
+          "name": "Sandwich Huevo y Queso",
+          "identifier": "3127",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_3127_24ENE24.png",
+          "description": "Disfruta un Sandwich con Huevo y Queso cheddar",
+          "price": {
+            "amount": 210000,
+            "tax": 0,
+            "formatted": "$2.100,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d581764f",
+          "name": "Grand Tostado",
+          "identifier": "2587",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2223_24ENE24.png",
+          "description": "Sándwich tostado de jamón y queso blanco",
+          "price": {
+            "amount": 250000,
+            "tax": 0,
+            "formatted": "$2.500,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817650",
+          "name": "Tostado Lomo y Queso",
+          "identifier": "13315",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/500x500--TOSTADO-MIXTO.png",
+          "description": "Tostado con lomo y queso en pan kaiser",
+          "price": {
+            "amount": 205000,
+            "tax": 0,
+            "formatted": "$2.050,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817656",
+          "name": "Sandwich con Bacon Queso y Huevo",
+          "identifier": "3121",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_3121_24ENE24.png",
+          "description": "Sandwich con Bacon, Queso cheddar y Huevo",
+          "price": {
+            "amount": 230000,
+            "tax": 0,
+            "formatted": "$2.300,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d581765b",
+          "name": "Tostado con Lomo Queso y Huevo",
+          "identifier": "3120",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_3120_24ENE24.png",
+          "description": "Disfruta un Tostado Criollo con Lomito, Queso cheddar y Huevo",
+          "price": {
+            "amount": 230000,
+            "tax": 0,
+            "formatted": "$2.300,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817662",
+          "name": "McQueso",
+          "identifier": "190",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_190_24ENE24.png",
+          "description": "Tostado de queso cheddar y mostaza",
+          "price": {
+            "amount": 225000,
+            "tax": 0,
+            "formatted": "$2.250,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817667",
+          "name": "Café Americano",
+          "identifier": "768",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_768_v1.png",
+          "description": "Café americano en vaso de 300 ml",
+          "price": {
+            "amount": 125000,
+            "tax": 0,
+            "formatted": "$1.250,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817670",
+          "name": "Latte Americano",
+          "identifier": "783",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_783_v1.png",
+          "description": "Bebida caliente con 40% Café americano y 60% de leche en vaso de 300 ml",
+          "price": {
+            "amount": 125000,
+            "tax": 0,
+            "formatted": "$1.250,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817679",
+          "name": "Lágrima Americano",
+          "identifier": "1133",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_1133_v1.png",
+          "description": "Bebida caliente con 90% leche y 10% Café americano en vaso de 300 ml",
+          "price": {
+            "amount": 125000,
+            "tax": 0,
+            "formatted": "$1.250,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817682",
+          "name": "Cappuccino Americano",
+          "identifier": "782",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_782_v1.png",
+          "description": "Bebida caliente 70% Café americano, 30% leche, terminado con espuma de leche y cacao en vaso de 300 ml",
+          "price": {
+            "amount": 125000,
+            "tax": 0,
+            "formatted": "$1.250,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d581768b",
+          "name": "Té",
+          "identifier": "650",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_650_v1.png",
+          "description": "Té negro en vaso de 300 ml",
+          "price": {
+            "amount": 125000,
+            "tax": 0,
+            "formatted": "$1.250,00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "661399c4882225b1d5817d7b",
+      "idRfm": "adsa-ar-high-900409",
+      "title": "McCafé con Espresso",
+      "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/default/mcdonalds.png",
+      "active": true,
+      "products": [
+        {
+          "id": "661399c4882225b1d5817d83",
+          "name": "Café espresso con 2 Medialunas",
+          "identifier": "48079",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48079_v2.png",
+          "description": "Café espresso en vaso de 300 Ml a elección con dos medialunas de manteca",
+          "price": {
+            "amount": 174900,
+            "tax": 0,
+            "formatted": "$1.749,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817d94",
+          "name": "Café espresso con Alfajor de Maicena",
+          "identifier": "48664",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48664_v1.png",
+          "description": "Café espresso en vaso de 300 Ml a elección con un alfajor de maicena",
+          "price": {
+            "amount": 255000,
+            "tax": 0,
+            "formatted": "$2.550,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817d9f",
+          "name": "Café espresso con Barrita de Cereal",
+          "identifier": "26986",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26986_v1.png",
+          "description": "Café espresso en vaso de 300 Ml con una barrita de cereal a elección",
+          "price": {
+            "amount": 255000,
+            "tax": 0,
+            "formatted": "$2.550,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817db1",
+          "name": "Café espresso con Poundcake",
+          "identifier": "26792",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26792_v1.png",
+          "description": "Cappuccino espresso en vaso de 300 Ml con un poundcake a elección",
+          "price": {
+            "amount": 295000,
+            "tax": 0,
+            "formatted": "$2.950,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817dc4",
+          "name": "Latte espresso con Grand Tostado",
+          "identifier": "49352",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_49352_v2.png",
+          "description": "Café Espresso + Grand Tostado",
+          "price": {
+            "amount": 330000,
+            "tax": 0,
+            "formatted": "$3.300,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817dd5",
+          "name": "Café espresso Especial con Croissant de Chocolate",
+          "identifier": "26793",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26793_v3.png",
+          "description": "Café espresso especial en vaso de 300 Ml con un Croissant de Chocolate",
+          "price": {
+            "amount": 240000,
+            "tax": 0,
+            "formatted": "$2.400,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817de9",
+          "name": "Café espresso con Pan de Queso",
+          "identifier": "26939",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26939_v2.png",
+          "description": "Café espresso en vaso de 300 Ml con un pan de queso",
+          "price": {
+            "amount": 240000,
+            "tax": 0,
+            "formatted": "$2.400,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817df4",
+          "name": "Café espresso con Torta Argentina",
+          "identifier": "26771",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_26771_v4.png",
+          "description": "Café espresso en vaso de 300 Ml con una porción de Torta Argentina",
+          "price": {
+            "amount": 355000,
+            "tax": 0,
+            "formatted": "$3.550,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817e01",
+          "name": "Espresso simple",
+          "identifier": "8798",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_8798_v1.png",
+          "description": "Café espresso molido en el momento en vaso de 100 Ml",
+          "price": {
+            "amount": 100000,
+            "tax": 0,
+            "formatted": "$1.000,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817e0c",
+          "name": "Espresso cortado",
+          "identifier": "777",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/NGK_777_Cortado_Esspresp.png",
+          "description": "Café espresso molido en el momento, cortado con leche en vaso de 100 Ml",
+          "price": {
+            "amount": 100000,
+            "tax": 0,
+            "formatted": "$1.000,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817e15",
+          "name": "Espresso Doble",
+          "identifier": "8795",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_649_v2.png",
+          "description": "Café espresso molido en el momento en vaso de 200 Ml",
+          "price": {
+            "amount": 170000,
+            "tax": 0,
+            "formatted": "$1.700,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817e20",
+          "name": "Macchiatto espresso",
+          "identifier": "8796",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_8796_v2.png",
+          "description": "Café espresso molido en el momento con espuma de leche, en vaso de 100 Ml",
+          "price": {
+            "amount": 100000,
+            "tax": 0,
+            "formatted": "$1.000,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817e2d",
+          "name": "Lágrima espresso chica",
+          "identifier": "2836",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2836_v2.png",
+          "description": "Bebida caliente con 90% de leche y un 10% de café espresso, molido en el momento, en vaso de 200 Ml",
+          "price": {
+            "amount": 160000,
+            "tax": 0,
+            "formatted": "$1.600,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817e3a",
+          "name": "Lágrima espresso grande",
+          "identifier": "2870",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2870_v2.png",
+          "description": "Bebida caliente con 90% de leche y un 10% de café espresso, molido en el momento, en vaso de 300 Ml",
+          "price": {
+            "amount": 170000,
+            "tax": 0,
+            "formatted": "$1.700,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817e47",
+          "name": "Indian Chai Latte",
+          "identifier": "48504",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/Twinings%20Indian%20Chai%20Latte.png",
+          "description": "Té Twinnings negro con un suave sabor a jengibre, canela y vainilla con leche espumada, en vaso de 300 Ml",
+          "price": {
+            "amount": 240000,
+            "tax": 0,
+            "formatted": "$2.400,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817e52",
+          "name": "Latte espresso chico",
+          "identifier": "2837",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2837_v2.png",
+          "description": "Bebida caliente con 60% de leche y un 40% de café espresso, molido en el momento, en vaso de 200 Ml",
+          "price": {
+            "amount": 160000,
+            "tax": 0,
+            "formatted": "$1.600,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817e5f",
+          "name": "Latte espresso grande",
+          "identifier": "2871",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2871_v1.png",
+          "description": "Bebida caliente con 60% de leche y un 40% de café espresso, molido en el momento, en vaso de 300 Ml",
+          "price": {
+            "amount": 170000,
+            "tax": 0,
+            "formatted": "$1.700,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817e6c",
+          "name": "Vainilla Latte espresso chico",
+          "identifier": "2869",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2869_v1.png",
+          "description": "Latte con café espresso, recien molido y una base de vainilla. En vaso de 200 Ml",
+          "price": {
+            "amount": 170000,
+            "tax": 0,
+            "formatted": "$1.700,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817e79",
+          "name": "Vainilla Latte espresso grande",
+          "identifier": "2879",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2879_v1.png",
+          "description": "Latte con café espresso, recien molido y una base de vainilla. En vaso de 300 Ml",
+          "price": {
+            "amount": 200000,
+            "tax": 0,
+            "formatted": "$2.000,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817e86",
+          "name": "Submarino chico",
+          "identifier": "2868",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2868_1.png",
+          "description": "Leche caliente, cubierta por suave espuma de leche, con una barra del mejor chocolate, en vaso de 200 Ml",
+          "price": {
+            "amount": 160000,
+            "tax": 0,
+            "formatted": "$1.600,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817e93",
+          "name": "Submarino grande",
+          "identifier": "2878",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2878.png",
+          "description": "Leche caliente con una barra de chocolate para taza, en vaso de 300 Ml",
+          "price": {
+            "amount": 170000,
+            "tax": 0,
+            "formatted": "$1.700,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817ea0",
+          "name": "Ristretto espresso",
+          "identifier": "3631",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_3631_v2.png",
+          "description": "Espresso corto y concentrado, recién molido. En vaso de 100 Ml",
+          "price": {
+            "amount": 110000,
+            "tax": 0,
+            "formatted": "$1.100,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817ead",
+          "name": "Té Twinnings chico",
+          "identifier": "7193",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_7193_v1.png",
+          "description": "Té Twinnings a elección, en vaso de 200 Ml",
+          "price": {
+            "amount": 160000,
+            "tax": 0,
+            "formatted": "$1.600,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817ec0",
+          "name": "Té Twinnings grande",
+          "identifier": "7194",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_7193_v1.png",
+          "description": "Té Twinnings a elección, en vaso de 300 Ml",
+          "price": {
+            "amount": 170000,
+            "tax": 0,
+            "formatted": "$1.700,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817ed3",
+          "name": "Cappuccino espresso chico",
+          "identifier": "2838",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2838_v1.png",
+          "description": "Café espresso, molido en el momento con leche. Finalizado con espuma de leche y cacao en polvo, en vaso de 200 Ml",
+          "price": {
+            "amount": 160000,
+            "tax": 0,
+            "formatted": "$1.600,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817ee0",
+          "name": "Cappuccino espresso grande",
+          "identifier": "2872",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2872_v2.png",
+          "description": "Café espresso, molido en el momento con leche. Finalizado con espuma de leche y cacao en polvo, en vaso de 300 Ml",
+          "price": {
+            "amount": 170000,
+            "tax": 0,
+            "formatted": "$1.700,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817eed",
+          "name": "Capuccino Mocca espresso chico",
+          "identifier": "2840",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2840_v1.png",
+          "description": "Café espresso, molido en el momento con leche y salsa tibia de chocolate. Finalizado con espuma de leche y cacao en polvo. En vaso de 200 Ml",
+          "price": {
+            "amount": 170000,
+            "tax": 0,
+            "formatted": "$1.700,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817efd",
+          "name": "Cappuccino Mocca grande",
+          "identifier": "2874",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/Mc%20Cafe%202.png",
+          "description": "Café espresso, molido en el momento con leche y salsa tibia de chocolate. Finalizado con espuma de leche y cacao en polvo. En vaso de 300 Ml",
+          "price": {
+            "amount": 200000,
+            "tax": 0,
+            "formatted": "$2.000,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817f0c",
+          "name": "Cappuccino Tentación chico",
+          "identifier": "2841",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2875_1.png",
+          "description": "capuchinno tentacion",
+          "price": {
+            "amount": 170000,
+            "tax": 0,
+            "formatted": "$1.700,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817f1c",
+          "name": "Cappuccino Tentación grande",
+          "identifier": "2875",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2841_1.png",
+          "description": "Espresso Doble con leche, salsas de chocolate y dulce de leche con crema batida, en vaso de 300 ml",
+          "price": {
+            "amount": 200000,
+            "tax": 0,
+            "formatted": "$2.000,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817f2c",
+          "name": "Cappuccino Bombón chico",
+          "identifier": "2867",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2867_1.png",
+          "description": "Base de café espresso y leche, leche condensada, finalizado con crema batida y cacao, en vaso de 200 ml",
+          "price": {
+            "amount": 170000,
+            "tax": 0,
+            "formatted": "$1.700,00"
+          }
+        },
+        {
+          "id": "661399c4882225b1d5817f3a",
+          "name": "Cappuccino Bombón grande",
+          "identifier": "2877",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2877_1.png",
+          "description": "Base de café espresso y leche, leche condensada, finalizado con crema batida y cacao, en vaso de 300 ml",
+          "price": {
+            "amount": 200000,
+            "tax": 0,
+            "formatted": "$2.000,00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "661399c5882225b1d5818235",
+      "idRfm": "adsa-ar-high-900411",
+      "title": "McCafé bebidas frias y comida",
+      "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/default/mcdonalds.png",
+      "active": true,
+      "products": [
+        {
+          "id": "661399c5882225b1d581823d",
+          "name": "Grand Tostado",
+          "identifier": "2587",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2223_24ENE24.png",
+          "description": "Sándwich tostado de jamón y queso blanco",
+          "price": {
+            "amount": 250000,
+            "tax": 0,
+            "formatted": "$2.500,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d581823e",
+          "name": "Menú Power Day y Napolitano Lomo",
+          "identifier": "48084",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48084_v1.png",
+          "description": "Menú Power Day y Napolitano Lomo",
+          "price": {
+            "amount": 465000,
+            "tax": 0,
+            "formatted": "$4.650,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d5818244",
+          "name": "Menú Chill Day y Napolitano Pollo",
+          "identifier": "48085",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48085_v1.png",
+          "description": "Menú Chill Day y Napolitano Pollo",
+          "price": {
+            "amount": 475000,
+            "tax": 0,
+            "formatted": "$4.750,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d581824a",
+          "name": "Calzone Espinaca y Hongos",
+          "identifier": "2813",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2813_24ENE24.png",
+          "description": "Masa de harina de trigo, con mix de semillas de girasol,lino,sésamo y avena,rellena de hongos,Espinaca y Queso",
+          "price": {
+            "amount": 350000,
+            "tax": 0,
+            "formatted": "$3.500,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d581824b",
+          "name": "Sándwich Lomo Napolitano",
+          "identifier": "209",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_209_24ENE24.png",
+          "description": "Sándwich en pan kaiser, lomo, queso cheddar y tomate",
+          "price": {
+            "amount": 340000,
+            "tax": 0,
+            "formatted": "$3.400,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d5818251",
+          "name": "Sándwich Pollo Napolitano",
+          "identifier": "211",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_211_24ENE24.png",
+          "description": "Sándwich tibio en pan kaiser con pollo grillado, tomate fresco y queso cheddar",
+          "price": {
+            "amount": 350000,
+            "tax": 0,
+            "formatted": "$3.500,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d5818257",
+          "name": "Medialuna de Grasa",
+          "identifier": "6964",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/6964.png",
+          "description": "Medialuna de grasa",
+          "price": {
+            "amount": 55000,
+            "tax": 0,
+            "formatted": "$550,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d5818258",
+          "name": "Croissant de Chocolate",
+          "identifier": "4799",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_4799_24ENE24.png",
+          "description": "Masa artesanal de hojaldre relleno de un delicioso chocolate caliente",
+          "price": {
+            "amount": 115000,
+            "tax": 0,
+            "formatted": "$1.150,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d5818259",
+          "name": "Medialuna lomito y Queso",
+          "identifier": "2819",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2819_24ENE24.png",
+          "description": "Medialuna de manteca con Lomito y Queso Cheddar",
+          "price": {
+            "amount": 145000,
+            "tax": 0,
+            "formatted": "$1.450,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d581825a",
+          "name": "Cheesecake",
+          "identifier": "6950",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_6950_v1.png",
+          "description": "Torta rellena de queso blanco tipo philadelphia con deliciosa salsa de frutos rojos, chocolate o dulce de leche",
+          "price": {
+            "amount": 285000,
+            "tax": 0,
+            "formatted": "$2.850,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d5818264",
+          "name": "Pan de Queso",
+          "identifier": "2812",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2812_24ENE24.png",
+          "description": "Bocado Redondo y tierno sabor a Queso",
+          "price": {
+            "amount": 115000,
+            "tax": 0,
+            "formatted": "$1.150,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d5818265",
+          "name": "Crumble de Manzana",
+          "identifier": "6954",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/500x500_Crumbel-de-manzana.png",
+          "description": "Exquisita porción humeda con trocitos de manzana recubierta con una corteza crocante",
+          "price": {
+            "amount": 210000,
+            "tax": 0,
+            "formatted": "$2.100,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d5818268",
+          "name": "Torta Argentina",
+          "identifier": "7195",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/7195.png",
+          "description": "Porción de capas de una tierna y fina masa, rellena con dulce de leche y recubierta con merengue",
+          "price": {
+            "amount": 285000,
+            "tax": 0,
+            "formatted": "$2.850,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d581826b",
+          "name": "Chocotorta",
+          "identifier": "1057",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_1057_24ENE24.png",
+          "description": "La típica torta argentina, hecha con galletitas de chocolate Chocolinas y un relleno de dulce de leche y queso blanco",
+          "price": {
+            "amount": 210000,
+            "tax": 0,
+            "formatted": "$2.100,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d581826e",
+          "name": "Agua Frutada Power Day",
+          "identifier": "48077",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV-48077-POWERDAY.png",
+          "description": "Bebida refrescante con naranja, mango, maracuyá y miel",
+          "price": {
+            "amount": 215000,
+            "tax": 0,
+            "formatted": "$2.150,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d581826f",
+          "name": "Agua Frutada Chill Day",
+          "identifier": "48078",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV-48078-CHILLDAY.png",
+          "description": "Bebida refrescante con Limon, kiwi, melon y pepino",
+          "price": {
+            "amount": 215000,
+            "tax": 0,
+            "formatted": "$2.150,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d5818270",
+          "name": "Milkshake Frutilla",
+          "identifier": "1806",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_1806_v1.png",
+          "description": "Bebida frozen con una base de vainilla y refrescantes frutillas, finalizado con deliciosa crema de leche",
+          "price": {
+            "amount": 240000,
+            "tax": 0,
+            "formatted": "$2.400,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d5818275",
+          "name": "Milkshake Vainilla",
+          "identifier": "1807",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_1807_v1.png",
+          "description": "Bebida frozen con una base de vainilla y finalizado con deliciosa crema de leche",
+          "price": {
+            "amount": 240000,
+            "tax": 0,
+            "formatted": "$2.400,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d581827a",
+          "name": "Milkshake Dulce de Leche",
+          "identifier": "1808",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_1808_v1.png",
+          "description": "Bebida frozen con una base de vainilla con salsa de dulce de leche y finalizado con deliciosa crema de leche",
+          "price": {
+            "amount": 240000,
+            "tax": 0,
+            "formatted": "$2.400,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d581827f",
+          "name": "Milkshake Chocolate",
+          "identifier": "2940",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_2940_v1.png",
+          "description": "Bebida frozen con una base de vainilla con salsa de chocolate y finalizado con deliciosa crema de leche",
+          "price": {
+            "amount": 240000,
+            "tax": 0,
+            "formatted": "$2.400,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d5818284",
+          "name": "Milkshake Oreo",
+          "identifier": "8318",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_8318_v2.png",
+          "description": "Bebida frozen con una base de vainilla y galletitas Oreo con salsa de dulce de leche, chocolate o frutilla y finalizado con deliciosa crema de leche",
+          "price": {
+            "amount": 260000,
+            "tax": 0,
+            "formatted": "$2.600,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d581829a",
+          "name": "Milkshake Croccantella",
+          "identifier": "48726",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48726_v1.png",
+          "description": "Bebida frozen a base de leche y chocolate amargo con copos de maíz y pasta de avellanas, recubierta por finos hilos de Chocolate Croccantella",
+          "price": {
+            "amount": 260000,
+            "tax": 0,
+            "formatted": "$2.600,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d58182a1",
+          "name": "Chocolatada Croccantella",
+          "identifier": "48725",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_48725_v1.png",
+          "description": "Bebida fría a base de leche y chocolate Croccantella con copos de maíz y pasta de avellanas. Esta bebida se entrega en vaso de polipapel",
+          "price": {
+            "amount": 260000,
+            "tax": 0,
+            "formatted": "$2.600,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d58182a8",
+          "name": "Iced Latte",
+          "identifier": "2843",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/Iced%20Latte.png",
+          "description": "Bebida a base de leche con un 40% del Café Espresso mas rico en versión fría, en vaso de 300 ml",
+          "price": {
+            "amount": 185000,
+            "tax": 0,
+            "formatted": "$1.850,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d58182b1",
+          "name": "Iced Vainilla Latte",
+          "identifier": "2844",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/Iced%20Caramel%20Vainilla.png",
+          "description": "Bebida a base de leche con un 40% del Café Espresso mas rico en versión fría con salsa de vainilla, en vaso de 300 ml",
+          "price": {
+            "amount": 185000,
+            "tax": 0,
+            "formatted": "$1.850,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d58182ba",
+          "name": "Iced Coffee",
+          "identifier": "2845",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/Iced%20black%20Coffee.png",
+          "description": "Café Espresso mas rico en versión fría, en vaso de 300 ml",
+          "price": {
+            "amount": 185000,
+            "tax": 0,
+            "formatted": "$1.850,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d58182c1",
+          "name": "Iced Machiatto",
+          "identifier": "2846",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/Iced%20Machiatto.png",
+          "description": "El Café Espresso mas rico con un toque de espuma de leche en versión fría, en vaso de 300 ml",
+          "price": {
+            "amount": 185000,
+            "tax": 0,
+            "formatted": "$1.850,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d58182c8",
+          "name": "Frappé Dulce de Leche",
+          "identifier": "1088",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_1088_v1.png",
+          "description": "Bebida frozen a base de café espresso con vainilla, una suave salsa de dulce de leche y finalizado con crema de leche",
+          "price": {
+            "amount": 260000,
+            "tax": 0,
+            "formatted": "$2.600,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d58182cc",
+          "name": "Frappé Oreo",
+          "identifier": "1106",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_1106_v1.png",
+          "description": "Bebida frozen a base de café espresso con vainilla, una suave salsa de chocolate con trozos de oreo y finalizado con crema de leche",
+          "price": {
+            "amount": 260000,
+            "tax": 0,
+            "formatted": "$2.600,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d58182d2",
+          "name": "Frappé Mocca",
+          "identifier": "7125",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_7125_v1.png",
+          "description": "Bebida frozen a base de café espresso con vainilla, una suave salsa de chocolate y finalizado con crema de leche y chocolate rallado",
+          "price": {
+            "amount": 260000,
+            "tax": 0,
+            "formatted": "$2.600,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d58182d8",
+          "name": "Frappé Frutos Rojos",
+          "identifier": "629",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_629_v1.png",
+          "description": "Bebida frozen con base de agua y frutos rojos congelados",
+          "price": {
+            "amount": 245000,
+            "tax": 0,
+            "formatted": "$2.450,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d58182db",
+          "name": "Frappé Limonada",
+          "identifier": "12585",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_12585_v1.png",
+          "description": "Bebida frozen con base de agua, pulpa de limón y un toque de menta con jengibre",
+          "price": {
+            "amount": 245000,
+            "tax": 0,
+            "formatted": "$2.450,00"
+          }
+        },
+        {
+          "id": "661399c5882225b1d58182de",
+          "name": "Frappé Frutilla y Banana",
+          "identifier": "1034",
+          "imageUrl": "https://cache-mcd-ecommerce.appmcdonalds.com/images/AR/DLV_1034_v1.png",
+          "description": "Bebida frozen con base de agua, frutillas congeladas y pulpa de banana",
+          "price": {
+            "amount": 245000,
+            "tax": 0,
+            "formatted": "$2.450,00"
+          }
+        }
+      ]
+    }
+  ]
